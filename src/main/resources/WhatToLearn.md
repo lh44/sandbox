@@ -20,15 +20,15 @@ Queue
 Single Linked List (Insert at front,back,middle; Delete at front back middle)
 Double Linked List
 Circular Linked List
-Step 3 :
 
+Step 3 :
 Learn the following approaches in algorithms
 Divide and Conquer (Merger Sort, Quick Sort, Binary Search are some examples)
 Greedy method (Knapsack, Prim’s algorithm, Kruskal’s algorithm, Dijkstra, Bellmanford)
 Dynamic programming (0/1 Knapsack, Travelling Salesman Problem, Coin change)
 Backtracking (N Queens problem)
-Step 4 :
 
+Step 4 :
 Binary Tree
 Binary Search Tree
 Height of a Tree

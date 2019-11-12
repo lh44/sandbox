@@ -1,6 +1,8 @@
 package com.alfa.datastructures;
 
-public class Stack<T> {
+import java.util.Iterator;
+
+public class Stack<T> implements Iterable<T> {
 
     private static final int CAPACITY = 5;
     private Object[] datastore = new Object[CAPACITY];
@@ -43,4 +45,18 @@ public class Stack<T> {
         return size == 0;
     }
 
+    @Override
+    public Iterator<T> iterator() {
+        return new Iterator<T>() {
+            @Override
+            public boolean hasNext() {
+                return !isEmpty();
+            }
+
+            @Override
+            public T next() {
+                return pop();
+            }
+        };
+    }
 }
