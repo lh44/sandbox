@@ -1,18 +1,14 @@
 What to study?
 
-Step 0 :
-
-Understand about pointers in C++, structures or classes
-Learn how to calculate worst case, best case , average case time complexities
 Step 1 :
 
 Learn few basic sorting algorithms along with their use case and time complexity.
-Bubble sort
-Insertion sort
-Selection sort
-Learn searching algorithms along with time complexity.
-Linear Search
-Binary Search
+* Bubble sort
+* Insertion sort
+* Selection sort
+* Learn search algorithms along with time complexity.
+* Linear Search
+* Binary Search
 
 Step 2 :
 Stack
@@ -39,9 +35,3 @@ Searching an element
 AVL Tree
 Hashing
 Where to study from?
-
-GeeksforGeeks | A computer science portal for geeks
-
-Data Structures and Algorithms | Coursera
-
-Video Lectures | Introduction to Algorithms (SMA 5503) | Electrical Engineering and Computer Science | MIT OpenCourseWare
